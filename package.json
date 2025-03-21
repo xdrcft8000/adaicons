@@ -1,0 +1,20 @@
+{
+  "name": "adaicons",
+  "version": "1.0.0",
+  "description": "A modern and mature icon pack inspired by copilot with a focus on data and AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "[\"icons\"",
+    "\"modern\"",
+    "\"mature\"",
+    "\"AI\"",
+    "\"data\"",
+    "\"chart\"",
+    "\"copilot\"]"
+  ],
+  "author": "Tayyeb Rafique",
+  "license": "MIT"
+}
