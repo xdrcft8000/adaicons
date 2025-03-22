@@ -37,33 +37,34 @@ Then use the icons in your HTML:
 ## Available Icons
 
 This iconset includes the following icons:
+![Group 136](https://github.com/user-attachments/assets/72f1cbf7-44e1-4e54-a614-82b88bd01a0f)
 
-- bar-chart-filled (&#xe900;)
-- bar-chart (&#xe901;)
-- bookmark-filled (&#xe902;)
-- bookmark (&#xe903;)
-- cog-filled (&#xe904;)
-- cog-smooth-filled (&#xe905;)
-- cog-smooth (&#xe906;)
-- cog (&#xe907;)
-- csv (&#xe908;)
-- filter-filled (&#xe909;)
-- filter (&#xe90a;)
-- history (&#xe919;)
-- mic-filled (&#xe90b;)
-- mic (&#xe90c;)
-- new-conversation (&#xe90d;)
-- percent (&#xe90e;)
-- pie-chart-filled (&#xe90f;)
-- pie-chart (&#xe910;)
-- share (&#xe911;)
-- sparkle-filled (&#xe912;)
-- sparkle (&#xe913;)
-- table (&#xe914;)
-- thumb-down-filled (&#xe915;)
-- thumb-down (&#xe916;)
-- thump-up-filled (&#xe917;)
-- thump-up (&#xe918;)
+- bar-chart-filled
+- bar-chart
+- bookmark-filled
+- bookmark
+- cog-filled
+- cog-smooth-filled
+- cog-smooth
+- cog
+- csv 
+- filter-filled 
+- filter
+- history
+- mic-filled 
+- mic
+- new-conversation
+- percent
+- pie-chart-filled
+- pie-chart
+- share
+- sparkle-filled
+- sparkle 
+- table
+- thumb-down-filled
+- thumb-down 
+- thump-up-filled
+- thump-up
 
 ## Usage with Module Bundlers (Webpack, Rollup, etc.)
 
