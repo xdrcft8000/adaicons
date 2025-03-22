@@ -4,6 +4,9 @@ A modern and mature icon pack inspired by MS copilot with a focus on data and AI
 
 Packaged with the help of [IcoMoon](https://icomoon.io/).
 
+
+![Group 136](https://github.com/user-attachments/assets/72f1cbf7-44e1-4e54-a614-82b88bd01a0f)
+
 ## Installation
 
 ```bash
@@ -37,7 +40,6 @@ Then use the icons in your HTML:
 ## Available Icons
 
 This iconset includes the following icons:
-![Group 136](https://github.com/user-attachments/assets/72f1cbf7-44e1-4e54-a614-82b88bd01a0f)
 
 - bar-chart-filled
 - bar-chart
