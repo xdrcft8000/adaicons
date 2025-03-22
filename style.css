@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('./fonts/icomoon.eot?c1vp6h');
+  src:  url('./fonts/icomoon.eot?c1vp6h#iefix') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?c1vp6h') format('truetype'),
+    url('./fonts/icomoon.woff?c1vp6h') format('woff'),
+    url('./fonts/icomoon.svg?c1vp6h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  /* letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures; */
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bar-chart-filled:before {
+  content: "\e900";
+}
+.icon-bar-chart:before {
+  content: "\e901";
+}
+.icon-bookmark-filled:before {
+  content: "\e902";
+}
+.icon-bookmark:before {
+  content: "\e903";
+}
+.icon-cog-filled:before {
+  content: "\e904";
+}
+.icon-cog-smooth-filled:before {
+  content: "\e905";
+}
+.icon-cog-smooth:before {
+  content: "\e906";
+}
+.icon-cog:before {
+  content: "\e907";
+}
+.icon-csv:before {
+  content: "\e908";
+}
+.icon-filter-filled:before {
+  content: "\e909";
+}
+.icon-filter:before {
+  content: "\e90a";
+}
+.icon-history:before {
+  content: "\e919";
+}
+.icon-mic-filled:before {
+  content: "\e90b";
+}
+.icon-mic:before {
+  content: "\e90c";
+}
+.icon-new-conversation:before {
+  content: "\e90d";
+}
+.icon-percent:before {
+  content: "\e90e";
+}
+.icon-pie-chart-filled:before {
+  content: "\e90f";
+}
+.icon-pie-chart:before {
+  content: "\e910";
+}
+.icon-share:before {
+  content: "\e911";
+}
+.icon-sparkle-filled:before {
+  content: "\e912";
+}
+.icon-sparkle:before {
+  content: "\e913";
+}
+.icon-table:before {
+  content: "\e914";
+}
+.icon-thumb-down-filled:before {
+  content: "\e915";
+}
+.icon-thumb-down:before {
+  content: "\e916";
+}
+.icon-thump-up-filled:before {
+  content: "\e917";
+}
+.icon-thump-up:before {
+  content: "\e918";
+}
