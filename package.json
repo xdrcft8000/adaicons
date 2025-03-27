@@ -1,0 +1,40 @@
+{
+  "name": "adaicons",
+  "version": "2.0.0",
+  "description": "A modern and mature icon pack inspired by MS copilot with a focus on data and AI.",
+  "main": "index.js",
+  "style": "style.css",
+  "files": [
+    "fonts/",
+    "style.css",
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "example.html"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm run lint",
+    "lint": "echo \"Checking files...\" && ls -la",
+    "preview": "open example.html"
+  },
+  "keywords": [
+    "icons",
+    "adaicons",
+    "webfont",
+    "font",
+    "icon-font",
+    "data",
+    "AI",
+    "copilot",
+    "modern",
+    "mature",
+    "rounded",
+    "outline",
+    "filled",
+    "chart",
+    "graph"    
+  ],
+  "author": "Tayyeb Rafique",
+  "license": "MIT"
+}
