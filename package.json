@@ -4,6 +4,7 @@
   "description": "A modern and mature icon pack inspired by MS copilot with a focus on data and AI.",
   "main": "index.js",
   "style": "style.css",
+  "homepage": "https://adaicons.onrender.com/example",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xdrcft8000/adaicons.git"
