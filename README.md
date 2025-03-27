@@ -2,8 +2,6 @@
 
 A modern and mature icon pack inspired by MS copilot with a focus on data and AI.
 
-Packaged with the help of [IcoMoon](https://icomoon.io/).
-
 
 ![image](https://github.com/user-attachments/assets/287e5820-7675-4a71-b380-84c7073a410a)
 
@@ -94,3 +92,6 @@ This iconset includes the following icons:
 ## License
 
 MIT 
+
+
+Packaged with the help of [IcoMoon](https://icomoon.io/).
