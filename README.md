@@ -5,7 +5,8 @@ A modern and mature icon pack inspired by MS copilot with a focus on data and AI
 Packaged with the help of [IcoMoon](https://icomoon.io/).
 
 
-![Group 136](https://github.com/user-attachments/assets/72f1cbf7-44e1-4e54-a614-82b88bd01a0f)
+![image](https://github.com/user-attachments/assets/fbcf85b3-9b13-4cc3-a0dc-10d4940e5b20)
+
 
 ## Installation
 
