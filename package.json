@@ -1,6 +1,6 @@
 {
   "name": "adaicons",
-  "version": "2.0.1",
+  "version": "2.0.0",
   "description": "A modern and mature icon pack inspired by MS copilot with a focus on data and AI.",
   "main": "index.js",
   "style": "style.css",
@@ -15,7 +15,8 @@
     "index.js",
     "README.md",
     "LICENSE",
-    "example.html"
+    "example.html",
+    "CHANGELOG.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
