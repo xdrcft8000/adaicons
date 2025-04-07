@@ -41,12 +41,19 @@ Then use the icons in your HTML:
 
 This iconset includes the following icons:
 
-- arrow
+- arrow-down
+- arrow-left
+- arrow-right
+- arrow-up
 - bar-chart
 - bar-chart-filled
 - bin
 - bookmark
 - bookmark-filled
+- chevron-down
+- chevron-left
+- chevron-right
+- chevron-up
 - cog
 - cog-filled
 - cog-smooth
@@ -56,13 +63,16 @@ This iconset includes the following icons:
 - copy
 - copy-filled
 - csv
+- divide
 - filter
 - filter-filled
 - grouped-bar-chart
 - grouped-bar-chart-filled
 - help
 - history
+- i
 - line-chart
+- link
 - mic
 - mic-filled
 - new-conversation
@@ -86,6 +96,10 @@ This iconset includes the following icons:
 - thump-up
 - thump-up-filled
 - tick
+- triangle-down
+- triangle-left
+- triangle-right
+- triangle-up
 - x
 
 

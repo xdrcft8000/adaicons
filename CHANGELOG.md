@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.1.0] - 2024-03-19
+
+### Added
+- New directional icons:
+  - chevron (right, down, up, left)
+  - triangle (right, down, up, left)
+  - arrow (right, down, up, left)
+- New math icons:
+  - divide
+- New text icons:
+  - i (italic/info)
+  - link
+
+### Changed
+- Renamed 'arrow' to 'arrow-right' for consistency with directional naming
+
+
 ## [2.0.1] - 2024-01-09
 
 ### Changed
