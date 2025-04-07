@@ -2,7 +2,6 @@
  * adaicons
  */
 
-// Import the CSS
 if (typeof document !== 'undefined') {
   const link = document.createElement('link');
   link.rel = 'stylesheet';
@@ -74,7 +73,7 @@ module.exports = {
     'x'
   ],
 
-  
+
   unicodes: {
     'arrow-down': 'e939',
     'arrow-left': 'e938',
