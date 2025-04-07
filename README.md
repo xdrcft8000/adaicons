@@ -3,7 +3,8 @@
 A modern and mature icon pack inspired by MS copilot with a focus on data and AI.
 
 
-![image](https://github.com/user-attachments/assets/287e5820-7675-4a71-b380-84c7073a410a)
+![image](https://github.com/user-attachments/assets/55770f0a-d908-4387-9376-c7181095143e)
+
 
 
 
