@@ -1,6 +1,17 @@
 # Changelog
 
-## [2.1.0] - 2024-03-19
+## [2.2.0] - 2025-04-11
+
+### Added
+- Four new icons:
+
+  - Clock
+  - Pivot table
+  - Dimension
+  - Minus
+
+
+## [2.1.0] - 2025-03-19
 
 ### Added
 - New directional icons:
@@ -17,7 +28,7 @@
 - Renamed 'arrow' to 'arrow-right' for consistency with directional naming
 
 
-## [2.0.1] - 2024-01-09
+## [2.0.1] - 2025-01-09
 
 ### Changed
 - Updated icon class names to use -icon suffix (e.g., "bookmark-icon" instead of "icon-bookmark")

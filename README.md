@@ -55,6 +55,7 @@ This iconset includes the following icons:
 - chevron-left
 - chevron-right
 - chevron-up
+- clock
 - cog
 - cog-filled
 - cog-smooth
@@ -64,6 +65,7 @@ This iconset includes the following icons:
 - copy
 - copy-filled
 - csv
+- dimension
 - divide
 - filter
 - filter-filled
@@ -76,11 +78,13 @@ This iconset includes the following icons:
 - link
 - mic
 - mic-filled
+- minus
 - new-conversation
 - number
 - percent
 - pie-chart
 - pie-chart-filled
+- pivot-table
 - plus
 - profile
 - profile-filled

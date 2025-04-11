@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'adaicons';
-  src:  url('fonts/adaicons.eot?lybnvy');
-  src:  url('fonts/adaicons.eot?lybnvy#iefix') format('embedded-opentype'),
-    url('fonts/adaicons.ttf?lybnvy') format('truetype'),
-    url('fonts/adaicons.woff?lybnvy') format('woff'),
-    url('fonts/adaicons.svg?lybnvy#adaicons') format('svg');
+  src:  url('fonts/adaicons.eot?4plqzi');
+  src:  url('fonts/adaicons.eot?4plqzi#iefix') format('embedded-opentype'),
+    url('fonts/adaicons.ttf?4plqzi') format('truetype'),
+    url('fonts/adaicons.woff?4plqzi') format('woff'),
+    url('fonts/adaicons.svg?4plqzi#adaicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,18 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.clock-icon:before {
+  content: "\e93c";
+}
+.dimension-icon:before {
+  content: "\e93d";
+}
+.minus-icon:before {
+  content: "\e93e";
+}
+.pivot-table-icon:before {
+  content: "\e93f";
+}
 .link-icon:before {
   content: "\e93b";
 }
